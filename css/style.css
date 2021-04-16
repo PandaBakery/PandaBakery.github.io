@@ -8716,7 +8716,7 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .slider-item .slider-text h1 {
           color: #fff;
           line-height: 1;
-          font-family: "Stella", cursive;
+          font-family: 'Stella', cursive;
           font-size: 10vw;
           font-weight: 400;
           margin-bottom: 40px; }
@@ -9458,7 +9458,7 @@ textarea.form-control {
   color: #eb5860;
   position: relative;
   line-height: 1;
-  font-family: "Stella", cursive;
+  font-family: 'Stella', cursive;
   margin-bottom: -20px;
   z-index: -1; }
 
