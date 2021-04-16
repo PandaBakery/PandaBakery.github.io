@@ -7,6 +7,12 @@
  .primeraBarrita { 
    height: 10px;
   }
+  @font-face {
+    font-family: "Stella";
+    src: url("fonts/Stella.ttf");
+    src: url("fonts/Stella.otf") format("opentype");
+    }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
