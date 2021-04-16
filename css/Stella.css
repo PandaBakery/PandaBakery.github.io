@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Stella';
+    src:  url('Stella.woff2') format('woff2'),
+          url('Stella.woff') format('woff');
+  }
