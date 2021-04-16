@@ -8,10 +8,10 @@
    height: 10px;
   }
   @font-face {
-    font-family: "Stella";
-    src: url("fonts/Stella.ttf");
-    src: url("fonts/Stella.otf") format("opentype");
-    }
+    font-family: 'Stella';
+    src:  url('Stella.woff2') format('woff2'),
+          url('Stella.woff') format('woff');
+  }
 
 :root {
   --blue: #007bff;
